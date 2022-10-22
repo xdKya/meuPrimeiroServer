@@ -1,1 +1,2 @@
-# meuPrimeiroServer
+# synchronousBallMovement
+Ball moving synchronously
